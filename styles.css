@@ -1,4 +1,38 @@
+/* tag based selectors */
 body { 
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: antiquewhite;
+    font-family: monospace;
+    font-size: 20px;
 } 
+
+h1 {
+    color: blue ;
+   font-family: fantasy;
+   font-size: 1.2em;
+}  
+
+h2 {
+color: green;
+
+}  
+/*id based selector */
+#html-anatomy-heading {
+    color: red;
+} 
+/*class based selector */
+.underline {
+    text-decoration: underline;
+ }  
+ .bold {
+     font-weight: bold;
+     font-size: 1.2em;
+ }
+
+#intro-ps {
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+
+{} 
