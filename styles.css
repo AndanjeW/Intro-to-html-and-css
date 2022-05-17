@@ -20,6 +20,7 @@ color: green;
 #html-anatomy-heading {
     color: red;
 } 
+
 /*class based selector */
 .underline {
     text-decoration: underline;
@@ -35,4 +36,3 @@ color: green;
 }
 
 
-{} 
